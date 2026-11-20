@@ -93,3 +93,6 @@ O CareerTrack é um protótipo acadêmico front-end. Portanto:
 - O projeto não possui backend, banco de dados remoto ou integração com plataformas de emprego.
 
 Uma evolução futura pode incluir autenticação segura, banco de dados, integração com uma API de vagas e sincronização das candidaturas entre dispositivos.
+
+## Live Demo
+Preview: https://beatrizamc.github.io/careertrack-project-interface/
